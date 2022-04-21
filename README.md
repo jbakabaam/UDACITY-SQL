@@ -3,7 +3,7 @@
 
 ### Created By JBL
 ---
-# This repository contains projects did for Udacity SQL Nanodegree.
+###### This repository contains projects did for Udacity SQL Nanodegree.
 
 ### Project1: Deforestation Exploration
 ---
