@@ -6,7 +6,7 @@ Created By JBAKABAAM
 ---
 This repository contains projects did for Udacity SQL Nanodegree.
 
-Project1: Deforestation Exploration
+⭐️ Project1: Deforestation Exploration
 ---
 ### Overview:
 You’ve been able to find tables of data online dealing with forestation as well as total land area and region groupings, and you’ve brought these tables together into a database that you’d like to query to answer some of the most important questions in preparation for a meeting with the ForestQuery executive team coming up in a few days.  
@@ -21,5 +21,5 @@ Ahead of the meeting, you’d like to prepare and disseminate a report for the l
   - A new column that provides the percent of the land area that is designated as forest.
 - Keep in mind that the column forest_area_sqkm in the forest_area table and the land_area_sqmi in the land_area table are in different units (square kilometers and square miles, respectively), so an adjustment will need to be made in the calculation you write (1 sq mi = 2.59 sq km).
 
-Project2: Udiddit, A Social News Aggregator 🥁
+⭐️ Project2: Udiddit, A Social News Aggregator
 ---
