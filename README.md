@@ -1,6 +1,6 @@
 UDACITY-SQL
 ===
-![temp](https://user-images.githubusercontent.com/103108988/164614280-c19fba8b-ab6c-4f92-8fbd-a47cd5bb6818.jpeg)
+![](https://github.com/jbakabaam/UDACITY-SQL/blob/master/Images/temp.jpeg?raw=true)
 
 Created By Jun Buhm Lee
 ---
