@@ -28,6 +28,6 @@ Investigate a poorly designed database for Udiddit, a social news aggregator.
 I designed a new, normalized and performant database and migrate over data from the previous database.
 
 ### Project Details:
--- Part I: Investigate the existing schema
--- Part II: Create the DDL for your new schema
--- Part III: Migrate the provided data
+- Part I: Investigate the existing schema
+- Part II: Create the DDL for your new schema
+- Part III: Migrate the provided data
