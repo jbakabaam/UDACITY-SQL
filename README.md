@@ -9,7 +9,7 @@ This repository contains projects did for 'Udacity SQL' Nanodegree.
 ⭐️ Project1: Deforestation Exploration
 ---
 ### Overview:
-In this project, I put my sql skills to help determine where to concentrate efforts to combat deforestation.
+In this project, I put my SQL skills to help determine where to concentrate efforts to combat deforestation.
 
 ### Project Details:
 - Create a View called “forestation” by joining all three tables - forest_area, land_area and regions in the workspace.
