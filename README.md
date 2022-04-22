@@ -9,8 +9,7 @@ This repository contains projects did for Udacity SQL Nanodegree.
 ⭐️ Project1: Deforestation Exploration
 ---
 ### Overview:
-You’ve been able to find tables of data online dealing with forestation as well as total land area and region groupings, and you’ve brought these tables together into a database that you’d like to query to answer some of the most important questions in preparation for a meeting with the ForestQuery executive team coming up in a few days.  
-Ahead of the meeting, you’d like to prepare and disseminate a report for the leadership team that uses complete sentences to help them understand the global deforestation overview between 1990 and 2016.
+In this project, I put my sql skills to help determine where to concentrate efforts to combat deforestation.
 
 ### Project Details:
 - Create a View called “forestation” by joining all three tables - forest_area, land_area and regions in the workspace.
