@@ -24,7 +24,7 @@ In this project, I put my sql skills to help determine where to concentrate effo
 ---
 ### Overview:
 Investigate a poorly designed database for Udiddit, a social news aggregator.  
-I designed a new, normalized and performant database and migrate over data from the previous database.
+Designed a new, normalized and performant database and migrate over data from the previous database.
 
 ### Project Details:
 - Part I: Investigate the existing schema
