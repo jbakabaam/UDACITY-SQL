@@ -23,3 +23,6 @@ Ahead of the meeting, you’d like to prepare and disseminate a report for the l
 
 ⭐️ Project2: Udiddit, A Social News Aggregator
 ---
+### Overview:
+Investigate a poorly designed database for Udiddit, a social news aggregator.  
+I designed a new, normalized and performant database and migrate over data from the previous database.
