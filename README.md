@@ -4,7 +4,7 @@ UDACITY-SQL
 
 Created By Jun Buhm Lee
 ---
-This repository contains projects did for Udacity SQL Nanodegree.
+This repository contains projects did for 'Udacity SQL' Nanodegree.
 
 ⭐️ Project1: Deforestation Exploration
 ---
